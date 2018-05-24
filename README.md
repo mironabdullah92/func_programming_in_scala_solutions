@@ -5,7 +5,6 @@ My own solutions to **Functional Programming in Scala**, *Book by Paul Chiusano 
 Check out official solutions [here](https://github.com/fpinscala/fpinscala/tree/master/answerkey)
 
 Chapters finished:
-  1. Part 1
-    1. What is functional programming?
-    2. Getting started with functional programming in Scala
-    3. Functional data structures
+  1. What is functional programming?
+  2. Getting started with functional programming in Scala
+  3. Functional data structures
